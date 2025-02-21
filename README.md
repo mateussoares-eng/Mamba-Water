@@ -1,3 +1,3 @@
 <p align="center">
- <img width="1920" height="1080" src="assets/gif-manba.gif">
+ <img width="300px" height="400px" src="assets/gif-manba.gif">
 </p>
